@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "My_Github_Page_Gif_Code", "My_Github_Page_Gif_Code\My_Github_Page_Gif_Code.csproj", "{444504CF-BA19-4D70-A47B-199C976E1664}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{444504CF-BA19-4D70-A47B-199C976E1664}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{444504CF-BA19-4D70-A47B-199C976E1664}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{444504CF-BA19-4D70-A47B-199C976E1664}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{444504CF-BA19-4D70-A47B-199C976E1664}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FAF265B-F382-4D35-A77E-7BC5B8F84BEC}
+	EndGlobalSection
+EndGlobal
